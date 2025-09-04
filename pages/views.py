@@ -1,6 +1,6 @@
 from django.shortcuts import render
 from django.http import HttpResponse
 
-def	homePageViews(request):
+def	homePageView(request):
 	return HttpResponse('Hello word!')
 
