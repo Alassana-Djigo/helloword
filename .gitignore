@@ -1,0 +1,30 @@
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*.so
+*.log
+*.pot
+*.pyc
+
+# Banco de dados local
+db.sqlite3
+
+# Arquivos temporários de editor
+*.swp
+*.swo
+*.swn
+
+# Virtualenv
+.env
+.venv
+venv/
+ENV/
+
+# Arquivos Django
+*.sqlite3
+*.pyc
+*.pyo
+
+# Static/media
+staticfiles/
+media/
